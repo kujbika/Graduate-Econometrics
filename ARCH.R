@@ -46,7 +46,6 @@ fit
 #arch lm test is included
 
 plot( fit )
-#1: blue is the actual time series, red is +-2sigma with the estimated sigma process -> very efficient!!!
 #compare 5-11 and 4-10. 5-11 is very impressive - the model could reduce the autocorrelation from the squared residuals, it captures the process well
 #9 is the qq plot, which is also captured by the garch!
 
